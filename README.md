@@ -1,1 +1,2 @@
-# subcode-website
+#include<stdio.h>
+printf("good morning")
